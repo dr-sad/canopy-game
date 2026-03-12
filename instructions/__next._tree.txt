@@ -1,5 +1,5 @@
-:HL["/canopy-game/_next/static/chunks/8edf6e41bab89a9d.css","style"]
+:HL["/canopy-game/_next/static/chunks/6c98ccc1d1d86f1a.css","style"]
 :HL["/canopy-game/assets/art/illustrations/canopy-growup.png","image"]
 :HL["/canopy-game/assets/art/illustrations/canopy-growout.png","image"]
 :HL["/canopy-game/assets/art/illustrations/canopy-example.png","image"]
-0:{"buildId":"yeLVzH6ELLJOW_pzMA0vf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"instructions","paramType":null,"paramKey":"instructions","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"iY_8kji0aGYwq4uKRZmHU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"instructions","paramType":null,"paramKey":"instructions","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
