@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[7869,["/canopy-game/_next/static/chunks/3bede8bc4d0c65ac.js","/canopy-game/_next/static/chunks/0b7dc3b692fa3c06.js"],"ClientPageRoot"]
-3:I[23285,["/canopy-game/_next/static/chunks/50e2b89e5af7d96e.js"],"default"]
+3:I[23285,["/canopy-game/_next/static/chunks/fd3b9cd0b4ec7d1b.js"],"default"]
 6:I[6430,["/canopy-game/_next/static/chunks/3bede8bc4d0c65ac.js","/canopy-game/_next/static/chunks/0b7dc3b692fa3c06.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"iY_8kji0aGYwq4uKRZmHU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/canopy-game/_next/static/chunks/50e2b89e5af7d96e.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"XChDaNsOKAQs7hz_r6vK7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/canopy-game/_next/static/chunks/fd3b9cd0b4ec7d1b.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
